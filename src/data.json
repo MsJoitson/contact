@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "M S Joitson ",
+      "email": "msjoitson@gmail.com",
+      "phone": "9188451168",
+      "id": 1702358533924,
+      "fav": false
+    },
+    {
+      "name": "jithin",
+      "email": "jithin@gmail.com",
+      "phone": "8188451168",
+      "id": 1702359537303,
+      "fav": false
+    },
+    {
+      "name": "Rimil Joseph",
+      "email": "rimiljoy@gmail.com",
+      "phone": "97777776767",
+      "id": 1702359570136,
+      "fav": false
+    }
+  ]
+}
